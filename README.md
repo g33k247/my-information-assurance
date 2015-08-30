@@ -38,8 +38,9 @@ Fire Eye Malware Intel Lab http://blog.fireeye.com/research/
 Fortinet Blog http://blog.fortinet.com/
 Guardian Online http://www.theguardian.com/media-network/information-security
 Google:
-Google Safety Center https://www.google.com/safetycenter/everyone/start/
-Google Security Blog http://googleonlinesecurity.blogspot.com/
+  Google Safety Center https://www.google.com/safetycenter/everyone/start/
+  Google Security Blog http://googleonlinesecurity.blogspot.com/
+
 Gov Security http://www.govinfosecurity.com/
 The Hacker News http://thehackernews.com/
 Help Net Security http://www.net-security.org/
