@@ -1,4 +1,5 @@
 ARS Technica Security http://arstechnica.com/security/
+
 Attack and Threat Maps:
   CTF365 https://ctf365.com/pages/map
   Digital DDOS Attacks http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&time=16245&view=map
@@ -12,7 +13,9 @@ Attack and Threat Maps:
   Norse Attack Map http://map.norsecorp.com/
   
 Carnal0wnage & Attack Research Blog http://carnal0wnage.blogspot.com/
+
 Center for Internet Security http://www.cisecurity.org/
+
 CERIAS/Spaf http://www.cerias.purdue.edu/site/blog/author/spaf
 Contagio Malware Dump http://contagiodump.blogspot.com/
 Controls:
