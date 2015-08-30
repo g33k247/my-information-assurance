@@ -2,14 +2,23 @@ ARS Technica Security http://arstechnica.com/security/
 
 Attack and Threat Maps:
 	CTF365 https://ctf365.com/pages/map
+	
 	Digital DDOS Attacks http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&time=16245&view=map
+	
 	Deutsch Telekom http://www.sicherheitstacho.eu/
+	
 	ESET Virus Map http://www.virus-radar.com/
+	
 	Fire Eye Attack Map https://www.fireeye.com/cyber-map/threat-map.html
+	
 	Fortintet Threat Map http://threatmap.fortiguard.com/?ref=producthunt
+	
 	IBM X-Force https://exchange.xforce.ibmcloud.com/
+	
 	Kapersky 3D http://cybermap.kaspersky.com/
+	
 	Malware Global http://globe.cyberfeed.net/
+	
 	Norse Attack Map http://map.norsecorp.com/
 
 Carnal0wnage & Attack Research Blog http://carnal0wnage.blogspot.com/
@@ -21,8 +30,10 @@ CERIAS/Spaf http://www.cerias.purdue.edu/site/blog/author/spaf
 Contagio Malware Dump http://contagiodump.blogspot.com/
 
 Controls:
-  20 Critical Security Controls https://www.sans.org/critical-security-controls/
-  STIG Viewer NIST http://www.stigviewer.com/controls/800-53
+
+  	20 Critical Security Controls https://www.sans.org/critical-security-controls/
+  
+  	STIG Viewer NIST http://www.stigviewer.com/controls/800-53
 
 CSO Online http://www.csoonline.com/
 
@@ -41,8 +52,10 @@ Dark Reading http://www.darkreading.com/
 DFIR http://www.digitalforensicsmagazine.com/
 
 DHS:
-  Daily Report http://dhs-daily-report.blogspot.com/
-  DHS Portal http://www.dhs.gov/topic/cybersecurity?utm_source=frequent_page&utm_medium=web&utm_campaign=dhs_frp
+
+	Daily Report http://dhs-daily-report.blogspot.com/
+	
+	DHS Portal http://www.dhs.gov/topic/cybersecurity?utm_source=frequent_page&utm_medium=web&utm_campaign=dhs_frp
 
 DSL Reports http://www.dslreports.com/forum/security,1
 
@@ -57,8 +70,10 @@ Fortinet Blog http://blog.fortinet.com/
 Guardian Online http://www.theguardian.com/media-network/information-security
 
 Google:
-  Google Safety Center https://www.google.com/safetycenter/everyone/start/
-  Google Security Blog http://googleonlinesecurity.blogspot.com/
+
+	Google Safety Center https://www.google.com/safetycenter/everyone/start/
+	
+	Google Security Blog http://googleonlinesecurity.blogspot.com/
 
 Gov Security http://www.govinfosecurity.com/
 
@@ -85,25 +100,34 @@ Microsoft Malware Protection Center http://blogs.technet.com/mmpc/default.aspx
 Naked Security (Sophos) https://nakedsecurity.sophos.com/
 
 NIST:
-  NIST Publications http://csrc.nist.gov/publications/index.html
-  NVD https://nvd.nist.gov/
+
+	NIST Publications http://csrc.nist.gov/publications/index.html
+	
+	NVD https://nvd.nist.gov/
 
 Penetration Testing:
-  Pen Test Tools https://pentest-tools.com/blog/
+
+	Pen Test Tools https://pentest-tools.com/blog/
 
 Phishing:
-  Know B 4 http://www.knowbe4.com/
-  Phish Tank http://www.phishtank.com/
+
+	Know B 4 http://www.knowbe4.com/
+	
+	Phish Tank http://www.phishtank.com/
 
 RAND on Cyber Warfare http://www.rand.org/topics/cyber-warfare.html
 
 Reddit Netsec http://www.reddit.com/r/netsec/
 
 SANS:
-  SANS Portal http://portal.sans.org/
-  Infosec Handlers Diary https://isc.sans.edu//diary.html
-  Internet Storm Center http://isc.sans.org/
-  Reading Room https://www.sans.org/reading-room/
+
+	SANS Portal http://portal.sans.org/
+	
+	Infosec Handlers Diary https://isc.sans.edu//diary.html
+	
+	Internet Storm Center http://isc.sans.org/
+	
+	Reading Room https://www.sans.org/reading-room/
 
 Securing the Human http://www.securingthehuman.org/blog
 
@@ -140,7 +164,8 @@ Tech Target http://searchsecurity.techtarget.com/
 Tenable Security http://www.tenable.com/blog
 
 Tools:
-  Online Domain Tools http://online-domain-tools.com/
+
+	Online Domain Tools http://online-domain-tools.com/
 
 Trend Micro Blog http://blog.trendmicro.com/
 
@@ -151,8 +176,10 @@ UMUC Cyber Program http://www.umuc.edu/cybersecurity/index.cfm
 US-CERT https://www.us-cert.gov/
 
 Vulnerabilities:
-  CVE http://cve.mitre.org/cve/index.html
-  OSVDB http://www.osvdb.org/
+
+	CVE http://cve.mitre.org/cve/index.html
+	
+	OSVDB http://www.osvdb.org/
 
 Like what you've seen so far? There's more at:
 Top 100 Cyber Resources http://ddosattackprotection.org/blog/cyber-security-blogs/
